@@ -425,8 +425,9 @@ li {
 }
 
 .ProgrammsText-3 {
-	width: 575px;
-	float:left;
+    text-align: center;
+    width: 575px;
+    margin: 0 auto;
 }
 
 .ProgrammsText-4 {
