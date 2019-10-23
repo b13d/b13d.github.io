@@ -196,7 +196,7 @@ li {
 #text-2 {
 	width: 276px;
 	position: relative;
-    left: 578px;
+    left: 687px;
     bottom: 86px;
     color: #6c6c6c;
 
@@ -205,7 +205,7 @@ li {
 #text-3 {
     width: 276px;
     position: relative;
-    left: 1092px;
+    left: 1297px;
     bottom: 450px;
     color: #6c6c6c;
 	
@@ -274,18 +274,46 @@ li {
 
 }
 
-#injob p {
+#injob1 p {
 	color:#535353;
 }
 
-#injob h2 {
+#injob1 h2 {
 	color:#7b2b28;
 }
 
-#injob {
+#injob1 {
 	float:left;
 	width: 370px;
 }
+
+#injob2 p {
+	color:#535353;
+}
+
+#injob2 h2 {
+	color:#7b2b28;
+}
+
+#injob2 {
+	float:left;
+	width: 370px;
+}
+
+#injob3 p {
+	color:#535353;
+}
+
+#injob3 h2 {
+	color:#7b2b28;
+}
+
+#injob3 {
+	float:left;
+	width: 370px;
+}
+
+
 
 #stenka {
 	width:1343px;
