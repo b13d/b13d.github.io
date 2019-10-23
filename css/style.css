@@ -202,6 +202,12 @@ li {
 
 }
 
+#wrapper-del {
+	width: 1450px;
+	margin: 0 auto;
+	height: 608px;
+}
+
 #text-3 {
     width: 276px;
     position: relative;
