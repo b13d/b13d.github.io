@@ -38,7 +38,7 @@
     font-size: 28px;
   }
 }
-  @media screen and (min-width: 768px){
+  @media screen and (min-width: 768px) and (max-width: 1023px){
   p {
     color:red;
     font-family: Arial;
@@ -46,11 +46,24 @@
     width: 300px;
   }
 }
+
+@media screen and (min-width: 1024px){
+  p {
+    color:red;
+    font-family: Arial;
+    font-size: 24px;
+    width: 400px;
+  }
+}
+
 @media screen and (min-width: 1024px) {
   html h2 {
-    padding-bottom: 60px;
+    position: absolute;
+    bottom:200px;
     color:yellow;
     font-family: Arial;
     font-size: 38px;
   }
+
+
 }
